@@ -1,7 +1,9 @@
 <h1 align="center"> Таймер на Авалонии</h1>
 
 <h2 align="center"> 
-![Структура](./Screen/Main.png)
+  
+![Основной экран](./Screen/Main.png)
+
 </h2>
 
 ## Описание
